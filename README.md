@@ -1,4 +1,4 @@
-# Ames House Prices — Baseline Project
+# House Prices Pridiction — Project
 
 This repository is a ready-to-run project skeleton for working with the Ames House Prices dataset. It includes the data description you provided plus helper scripts to train a simple baseline model (Random Forest) and produce a submission file.
 
